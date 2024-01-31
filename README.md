@@ -1,4 +1,6 @@
-# Unity-Bug-Report-Playable-IN-50605
+# [Fixed] Unity-Bug-Report-Playable-IN-50605
+
+**Fixed in 2023.3.0b5.**
 
 ## About this issue
 
